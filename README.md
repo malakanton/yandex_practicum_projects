@@ -1,3 +1,3 @@
 # yandex_practicum_projects
 
-# Studying projects from Yandex Practicum
+Studying projects from Yandex Practicum
